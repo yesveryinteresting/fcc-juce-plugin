@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="kFqzUQ" name="fcc-juce-plugin" projectType="guiapp" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              cppLanguageStandard="20">
   <MAINGROUP id="NjVYv3" name="fcc-juce-plugin">
     <GROUP id="{4ABC4731-D98F-1A3A-A717-316FE044459D}" name="Source">
       <FILE id="E5SwKA" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
